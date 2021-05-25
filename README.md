@@ -1,0 +1,2 @@
+# SHIR
+$SHIR - SHIRO Token
